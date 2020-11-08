@@ -33,5 +33,34 @@ else:
 saya akan menjelaskan langkah-langkah nya:
 <br>
 
+* Langkah pertama yaitu membuat sebuah inputan menentukan bilangan terbesar. yaitu dengan perintah:
+
+<br>
+
+````python 
+print("Masukan Bilangan Ke-1 :") 
+bilangan1=int(input())
+print("Masukan Bilangan Ke-2 :")
+bilangan2=int(input())
+print("Masukan Bilalngan ke-3 :")
+bilangan3=int(input())
+````
+<br>
+
+* Langkah kedua yaitu saatnya menentukan logika untuk menemukan bilangan terbesar dari angka yang akan di inputkan diatas. <br>
+Dengan menjelaskan fungsi-fungsi pada source code yang dilampirkan diatas : <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
